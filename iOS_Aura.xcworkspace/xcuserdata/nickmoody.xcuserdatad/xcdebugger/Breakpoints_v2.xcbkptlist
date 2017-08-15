@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS_Aura/Device/Presentation/PropertyNotificationDetailsViewController.swift"
+            timestampString = "523853217.945467"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "createTriggerAppsForProperty(_:trigger:notificationMessage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOS_Aura/AppDelegate.swift"
+            timestampString = "523853324.714961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "406"
+            endingLineNumber = "406"
+            landmarkName = "application(_:didRegisterForRemoteNotificationsWithDeviceToken:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Aura.AppDelegate.application (__ObjC.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken : Foundation.Data) -&gt; ()"
+                  moduleName = "Aura"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickmoody/Desktop/iOS_Aura_Public/iOS_Aura/AppDelegate.swift"
+                  timestampString = "523853325.816406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "406"
+                  endingLineNumber = "406"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Aura.AppDelegate.(application (__ObjC.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken : Foundation.Data) -&gt; ()).(closure #1)"
+                  moduleName = "Aura"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickmoody/Desktop/iOS_Aura_Public/iOS_Aura/AppDelegate.swift"
+                  timestampString = "523853325.81899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "406"
+                  endingLineNumber = "406"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
